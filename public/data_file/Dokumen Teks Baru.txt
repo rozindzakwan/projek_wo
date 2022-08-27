@@ -1,0 +1,7 @@
+- notifikasi login
+- di jadwal yg tampil di grid nya cuma tempat, dan tanggal aja gausah ada nama nya takutnya rahasia
+- user yang mau liat jadwal harus login dulu
+- di jadwal juga ada fungsi cari nya kaya di laporan biar user yg mau nyari tanggal gausah scroll buat  
+	nyariin tgl yg mau dia pesan biar ga bentrok
+- yang inputan vendor juga wajib diisi
+- tambahin nama ig, dan wa nya
